@@ -178,7 +178,7 @@ def save_to_postgresql(articles, db_config):
 # --- Main execution part ---
 
 CATEGORIES_TO_CRAWL = [
-    {"url": "https://dantri.com.vn/kinh-doanh.htm", "category": "Kinh doanh 1"},
+    {"url": "https://dantri.com.vn/kinh-doanh.htm", "category": "Kinh doanh 2"},
     {"url": "https://dantri.com.vn/xa-hoi.htm", "category": "Xã hội"},
     {"url": "https://dantri.com.vn/the-gioi.htm", "category": "Thế giới"},
     {"url": "https://dantri.com.vn/giai-tri.htm", "category": "Giải trí"},
